@@ -1,0 +1,50 @@
+{
+    "name" : "SHIVANI A",
+    "contact" : {
+        "email" : "shivani@gmail.com",
+        "phone" : "1234567890"
+    },
+    "education" : [
+        {
+            "degree": "BE in Computer Science",
+            "institution": "Anna University",
+            "year": 2020
+        },
+        {
+            "degree": "Diploma in Computer Science",
+            "institution": "State Board of Technical Education",
+            "year": 2017
+        },
+        {
+            "degree": "SSLC",
+            "institution": "State Board",
+            "year": 2013
+        }
+    ],
+    "experience": [
+        {
+          "position": "Full Stack Developer",
+          "company": "Zoho",
+          "years": 1
+        },
+        {
+          "position": "Software Developer",
+          "company": "TCS",
+          "years": 1
+        }
+      ],
+      "skills": ["JavaScript", "Python", "C++", "Java"],
+      "languages": [
+        {
+          "language": "English",
+          "fluency": "Excellent"
+        },
+        {
+          "language": "Tamil",
+          "fluency": "Excellent"
+          }
+      ],
+      "interests": ["Readin books","listening music","Watching Tv"]
+}
+
+
